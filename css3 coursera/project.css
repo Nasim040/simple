@@ -1,0 +1,19 @@
+header{
+	background:rgb(0,0,1,0.5);
+	
+}
+h1{text-align:center;
+  text-transform:uppercase;
+}
+.anchor{background:#666666;}
+section{background:#b3b3b3;
+       }
+h2{
+	text-transform:uppercase;
+	color:#00ffff;
+	font-size:200%;
+}
+body{
+	background:#00ffff;
+
+}

@@ -1,0 +1,47 @@
+body{
+	background:#666666;
+}
+h1{ font-style:italic;}
+	a{ background:#00ffff;
+      margin:0 auto;
+	  color:#ffffff;
+	  font-weight:bold;
+	  display:block;
+	  padding:3px;
+	 
+	  margin:10px;
+	  text-align:center;
+	  width:200px;
+	  text-decoration:none;
+	}
+	a:hover{
+		background:#b3b3b3;
+		color:#006CC;
+	}
+	a:focus{background:#b3b3b3;
+	         color:#006CC;
+	}
+	a:active{
+	     border:3px dotted #000000;}
+		 div{
+		 display: inline-block;
+		 margin-right:10px;
+		 background:#ffff00;
+		
+		 }
+		 ol{font-size:25px;
+		    font-weight:bold;
+			font-style:italic;
+		 }
+		 ul{ list-style-type:square;
+		 font-style:italic;
+		 }
+		 h2 
+		 {font-family:algerian;
+		    font-style:underline;
+		 }
+		 article h2{color:#b3b3b3;
+		            background:#666666;
+		 }
+		 
+	  

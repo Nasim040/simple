@@ -1,0 +1,22 @@
+header{
+	text-align:center;
+	background:rgba(0,0,1,0.5);
+	font-size:30px;
+	font-family:serif;
+	
+	line-height:200%;
+}
+html{
+	fontsize:30px;
+	background:#ffff00;
+}
+h2{
+	color:#0000ff;
+	background:#ffff00;
+}
+footer{
+	background:#A52A2A;
+}
+section{
+	display:inline block;
+}
